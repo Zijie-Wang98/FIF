@@ -1,4 +1,4 @@
-This document is used for generating numerical results on the paper entitled “Device-free localization in ISAC networks: performance limits and Fisher information-Based cooperative localization” by Zi-Jie Wang, Aimin Tang, and Xudong Wang.
+This document is used for generating numerical results on the paper entitled “Device-free localization in ISAC networks: performance limits and Fisher information-based cooperative localization” by Zi-Jie Wang, Aimin Tang, and Xudong Wang.
 
 *********************************************************************************************************************************
 
@@ -13,6 +13,6 @@ To obtain numerical data for Fig. 9, run “FIF_theoretical(direct_path)/calcula
 
 To obtain numerical data for Fig. 10, run “FIF_theoretical(direct_path)/calculate_FIF_pairwise.m”;
 
-To obtain numerical data for Fig. 11, run “MLE/PER_MLE_pairwise.m”;
+To obtain numerical data for Fig. 11, run “MLE/PEB_MLE_pairwise.m”;
 
 To obtain numerical data for Fig. 12, run “Network_localization/main.m”.
